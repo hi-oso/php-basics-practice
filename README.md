@@ -14,3 +14,8 @@ COACHTECH 教材 Tutorial 7-1「PHPの基礎 ハンズオン演習」で作成�
 ## 動作確認
 http://localhost:8000/7-1-6_hands-on/practice/price_calculator.phpに
 アクセスして正しく表示されているか確認した
+
+# discount_calculator.php
+
+## 概要
+色々な演算子で、様々なケースの計算を練習
